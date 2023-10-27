@@ -1,0 +1,563 @@
+
+
+li {
+  display: inline;
+  margin-right: 10px;
+  font-size: 90px;
+  justify-content: space-around;
+  color: black;
+  list-style: none;
+  margin-top: 100px;
+
+ }
+ a:hover{
+    color: rgb(255, 0, 119);
+    text-decoration: underline;
+ }
+ header{
+  margin-top: 10px;
+  flex-wrap: wrap;
+  background-attachment: fixed;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+  
+   
+ }
+  nav {
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    padding: auto;
+   
+  }
+  a{
+    color: black;
+    text-decoration: none; 
+    margin-left:    300px;
+   
+   border-radius: 10%;
+   margin-left: 250px;
+  }
+  h1{
+    font-size: 150px;
+    color: rgb(255, 0, 106);
+    text-align: center;
+   
+  
+  }
+  .cherche{
+   margin-top: 30px;
+   margin-left: 250px;
+   
+  }
+ 
+  .php{
+    background-color: rgb(238, 130, 130);
+  }
+  
+
+#monselect {
+  border: 0;
+  border-radius: 0%;
+  font-size: 50px;
+  width: 90px;
+  height: 60px;
+  margin-top: 50px;
+  margin-left: 350px;
+
+}
+.favorite{
+  background-color:  rgb(255, 0, 106);
+  border: 0;
+  border-radius: 0%;
+  font-size: 60px;
+  height: 99px;
+  margin-top: 40px;
+  margin-left: 50px;
+  color: aliceblue;
+  border-radius: 20%;
+  padding: 20px;
+  text-align: center;
+ 
+}
+.Outline{
+  font-size: 100px;
+  color: aliceblue;
+  background-color: rgb(255, 0, 106); 
+  text-align: center;
+  border-radius: 0px 0px 500px 0px;
+    padding: 100px;
+    width: 30%;
+    height: 10%;
+    
+    margin-top: -600px;
+
+}
+   .Outline span{
+  margin-left: 900px;
+  
+ 
+}
+.Out{
+  font-size: 100px;
+ 
+  color: rgb(255, 0, 106);;  
+  background-color: rgb(231, 116, 164); 
+  text-align: center;
+  border-radius: 0px 0px 500px 0px;
+    padding: 100px;
+    width: 38%;
+    height: 55%;
+   margin-top:-0 px;
+   width: 30%;
+    height: 10%;
+    margin-top: -559px;
+
+}
+.Out span{
+  color:0;
+}
+.line{
+  font-size: 100px;
+  color: rgb(255, 0, 106); 
+  background-color: rgb(252, 212, 228); 
+  text-align: center;
+  border-radius: 0px 0px 500px 0px;
+    padding: 100px;
+    width: 38%;
+    height: 55%;
+   margin-top:350px ;
+   width: 30%;
+    height: 10%;
+    
+}
+.rh{
+  justify-content: space-around;
+  text-align: center;
+  
+}
+.litle{
+  display: flex;
+  margin-left:-60px;
+  font-size: 90px;
+ margin-top: -600px;
+ margin-left: 50%;
+ transform: rotate(10deg);
+;
+ 
+}
+.init{
+  background-color:rgb(255, 0, 76); 
+  color: aliceblue;
+  position: inherit;
+  border-radius: 45px;
+  text-align: end;
+  padding: 5%;
+  box-shadow:  gray ;
+  width: 30%;
+ 
+}
+.elit{
+  border-radius: 10px ;
+background-color: aliceblue;
+ margin-left: -36%;
+ margin-top: 6%;
+ transform: rotate(-10deg);
+padding: 40px;
+ border-radius: 45px;
+ font-size: 70px;
+ text-align: center;
+ width: 40%;
+}
+.effet{
+  font-size: 150px;
+    color: rgb(255, 0, 106);
+    text-align: center;
+    background-color:white; 
+}
+.miracle{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  
+}
+.class1{
+  color: rgb(255, 0, 106) ;
+  font-size: 120px;
+  
+}
+.class2{
+  font-size:   80px;
+ 
+}
+.selected{
+  margin-top: -3%;
+  background-color: white;
+}
+.java{
+  display: flex; 
+  justify-content: space-around;
+  margin-left: -24%;
+}
+.first{
+  background-color: white;
+  width: 50em;
+  margin-left: 4em;
+  border-bottom: 10px  rgb(255, 0, 106) solid;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+  
+  
+}
+.over{
+  color: rgb(255, 0, 106) ;
+  font-size: 90px;
+}
+.prof{
+  font-size: 50px;
+
+}
+.apprenants{
+  font-size: 50px;
+  }
+
+.pogress1{
+  display: flex;
+}
+.autre{ 
+  margin-top: 200px;
+ margin-left: -1500px;
+}
+image{
+  margin-top: 150px;
+  margin-bottom: 200%;
+}
+.name{
+display: flex;
+}
+.image1{
+  text-align: center;
+  margin-top: 8%;
+}
+.favorite1{
+background-color:  rgb(255, 0, 106);
+  border: 0;
+  border-radius: 500px;
+  font-size: 60px;
+  height: 170px;
+  margin-top: 40px;
+  margin-left: 50px;
+  color: aliceblue;
+  border-radius: 20%;
+  padding: 30px;
+  text-align: center;
+  width: 10em;
+  }
+  .nom1{
+    margin-left: 40px;
+  }
+  .miracle1{
+    display: flex;
+    justify-content: space-around;
+    margin-top:300px;
+    margin-left: -300px;
+    }
+    
+    .second{
+      height: 24em;
+     display: flex;
+    align-items: start;
+      margin: auto;
+      justify-content: space-between;
+      background-color: white;
+      box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+      margin-bottom: 4em;
+    
+    }
+    .miracle2{
+      margin-top:100px;
+      align-items: 100px;
+      margin-left: 50px;
+    }
+    .number{
+      background-color:  rgb(252, 212, 228);
+      border-radius: 90px;
+      padding: 20px;
+      
+
+      }
+      .only{
+        display: flex;
+        text-align: center  ;
+        justify-content: space-around;
+        background-color: rgb(255, 0, 106 ) ;
+        margin-top:10%;
+      }
+      
+   .choix{
+    margin-left: -300px
+    }
+    .prof1{
+      font-size: 60px;
+    }
+    .prof2{
+      color: white;
+      font-size: 90px;
+    }
+    .apprenants1{
+      font-size:70px ;
+      color: white;
+    }
+    .apprenants2{
+      margin-top:10%;
+    }
+    .prof3{
+      text-align: center;
+      font-size: 100px;
+      margin-top: 5%;
+    }
+    .fixe{
+      font-size: 100px;
+    }
+    .fixe1{
+      font-size: 50px;
+      color: rgb(255, 0, 106 ) ;
+    }
+    .fixe2{
+      font-size: 50px;
+      color: gray;
+      margin-top: 2%;
+    }
+    .fix3{
+      margin-top: 2%;
+    }
+    .reference{
+      background-color: white;
+      box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+      padding: 5%;
+    }
+    .fixe3{
+      display: flex;
+      justify-content: space-around; 
+      text-align: center;
+      margin-top: 6%;
+    }
+    .absolue{ 
+      margin-top: 80px;
+      height: 100%;
+    }
+    .bord{
+      display: flex;
+      justify-content: space-around;
+  
+      
+    }
+    .best{
+      margin-top: 2px;
+    }
+    .besty{
+      font-size: 80px;
+    }
+    .over1{
+      color: rgb(255, 0, 106) ;
+      font-size: 70px;
+    }
+    .class2a{
+      font-size: 60px;
+      margin-left: -2%;
+    }
+    .hoot{
+      
+      background-color:  rgb(252, 212, 228); 
+      width: 50%;
+      height: 150em;
+      display: flex;
+      
+    }
+    .toto1{
+      height: 150em;
+      background-color: aqua;
+    }
+    .toto{
+      height: 150em;
+      display: flex;
+      justify-content: space-around;
+      height: 9em;
+      text-align: center;
+    }
+    .flame{
+     background-color:white ;
+     width: 35%;
+     box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.5);
+     border-radius: 200px;
+     margin-top: 60px;
+     height: 42em;
+     margin-left: 60px;
+
+    }
+    .toto3{
+    
+    }
+    .bast{
+      display: flex;
+      justify-content:space-between ;
+      margin-top: 15%;
+      margin-left: -40em;
+      margin: auto;
+      
+      
+     
+    }
+    .succes{
+      margin-top:9%;
+    }
+    .moin{
+      color: rgb(255, 0, 106) ; 
+    }
+    .over3{
+      color: rgb(255, 0, 106) ;
+      font-size: 90px;
+    
+    }
+    .favorite2{
+      background-color:  rgb(255, 0, 106);
+      text-decoration: none;
+      border-radius: 900px;
+      font-size: 60px;
+      height: 170px;
+      margin-top: 80px;
+      color: aliceblue;
+      border-radius: 20%;
+      padding: 30px;
+      text-align: center;
+      width: 10em;
+      margin-left: 43%;
+ 
+}
+hr{
+  background-color:  rgb(255, 0, 106);
+  height: 2px;
+}
+.plus{
+  background-color:  rgb(255, 0, 106);
+  color: white;
+ width: 1em;
+ justify-content: space-around;
+ font-size: 100px;
+border-radius: 2em;
+text-align: center;
+}
+.signe{
+  display: flex; 
+  justify-content: space-between;
+  }
+.favorite3{
+background-color: rgb(252, 212, 228) ;
+font-size: 60px;
+height: 170px;
+margin-top: 80px;
+color: black;
+border: none;
+text-align: center;
+width: 10em;
+margin-left: 43%;
+text-decoration: black;
+}
+.fléche{
+  display: flex;
+  text-align: center;
+  padding: 10px;
+  text-decoration: black;
+  margin-left: 60px;
+}
+.liens{
+  text-decoration: underline;
+}
+.learn{
+  display: flex;
+  justify-content: space-around;
+ 
+  
+}
+.classrom{
+ display: flex;
+ justify-content: space-around;
+ height: 150em;
+ background-color: aqua;
+
+  
+}
+.checkpoint{
+  color: gray;
+  font-size: 50px;
+}
+.favorite4{
+  background-color:  rgb(255, 0, 106);
+  text-decoration: none;
+  border-radius: 500px;
+  font-size: 40px;
+  height: 140px;
+  margin-top: 80px;
+  color: aliceblue;
+  border-radius: 20%;
+  padding: 30px;
+  text-align: center;
+  width: 10;
+  
+}
+.logo{
+  text-align: center;
+  justify-content: space-around;
+   display: flex;
+}
+.logo1{
+    text-align: center;
+    justify-content: space-around;
+     display: flex;
+     margin-top: 8%;
+
+}
+.foot1{
+ margin-top: 2%;
+}
+.foot2{
+  font-size: 90px;
+  color: white;
+}
+.classd{
+  font-size: 70px;
+  color: white;
+}
+.favorite5{
+  background-color:  rgb(255, 0, 106);
+    border: 0;
+    font-size: 30px;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: aliceblue;
+    text-align: center;
+    width: 200px;
+    }
+    .foot{
+      display: flex; 
+      justify-content: space-around;
+      margin-top: 8%;
+       background-color: black;
+    }
+    .foot6{
+      display: flex; 
+      justify-content: space-between; 
+      background-color:  rgb(255, 0, 106);
+    }
+    .footer3 {
+     
+    }
+    .input {
+      height: 100px;
+      width: 400px;
+      font-size:  60px; 
+      color: grey;
+      text-align: start;
+    }
+    #colors{
+      color: blueviolet;
+    }
